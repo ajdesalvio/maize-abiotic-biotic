@@ -1,0 +1,30 @@
+{
+  "description": "Combined Stiff Stalks (SS) 6-way doubled haploids",
+  "crosstype": "dh6",
+  "sep": ",",
+  "na.strings": [
+    "-",
+    "NA"
+  ],
+  "comment.char": "#",
+  "geno": "TXH2.2021.subset.genotype.data.csv",
+  "founder_geno": "cm.mbp.ss.100k.sites.SSparental_geno.csv",
+  "gmap": "cm.mbp.ss.100k.sites.mbp_to_cm_map.csv",
+  "pmap": "cm.mbp.ss.100k.sites.physical_marker_map.csv",
+  "pheno": "TXH2.2021.subset.phenotype.AGDD.FPC.data.csv",
+  "alleles": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F"
+  ],
+  "genotypes": {
+    "0": 1,
+    "1": 3
+  },
+  "cross_info": {
+    "file": "cm.mbp.ss.100k.sites.ssCross.csv"
+  }
+}
