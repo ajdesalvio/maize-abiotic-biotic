@@ -17,6 +17,7 @@ The `Case Study 1 Data` folder contains files needed to run the scripts.
 5) RGB vegetation indices can then be extracted from the segmented images. For each index, the mean and median value of the index is returned.
 
 #### Case Study 2
-See the `Case Study 2` folder for the Python and R scripts used in the maize abiotic stress (optimal vs. delayed planting) case study that uses Genomes to Fields data from Texas in 2021.
+- See the `Case Study 2` folder for the Python and R scripts used in the maize abiotic stress (optimal vs. delayed planting) case study that uses Genomes to Fields data from Texas in 2021.
 The `Case Study 2 Data` folder contains files needed to run the scripts.
-The python environment setup for Case Study 2 can be performed similar to the procedure outlined in Case Study 1, except using the Case_Study_2.yml file.
+- The python environment setup for Case Study 2 can be performed similar to the procedure outlined in Case Study 1, except using the Case_Study_2.yml file.
+- To perform the analyses in Case Study 2, R scripts with prefixes 1-4 are performed first. After completing these scripts, run the (only) python script to query MaizeMine for GO terms and gene annotations. After this, use R script 5.
