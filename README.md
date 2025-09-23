@@ -1,7 +1,7 @@
 ## Biotic and abiotic stress monitoring in maize using remote sensing and functional data analysis
 
 This repository contains supplemental files and code walkthroughs to reproduce the analyses in our book chapter that explores the use of functional data analysis in maize biotic and abiotic stress monitoring with remote sensing.
-Our book chapter can be found read at [this link](https://insert_link_here).
+Our book chapter can be found at [this link](https://insert_link_here). (link will be updated upon publication)
 
 #### Case Study 1
 - See the `Case Study 1` folder for the Python and R scripts used in the maize biotic stress (southern rust) case study.
