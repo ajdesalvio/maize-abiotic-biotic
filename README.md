@@ -21,3 +21,6 @@ The `Case Study 1 Data` folder contains files needed to run the scripts.
 The `Case Study 2 Data` folder contains files needed to run the scripts.
 - The python environment setup for Case Study 2 can be performed similar to the procedure outlined in Case Study 1, except using the Case_Study_2.yml file.
 - To perform the analyses in Case Study 2, R scripts with prefixes 1-4 are performed first. After completing these scripts, run the (only) python script to query MaizeMine for GO terms and gene annotations. After this, use R script 5.
+
+#### Vegetation index formulas
+VI formulas can be viewed at [this link](<VI Formulas/vi_formulas.md>).
